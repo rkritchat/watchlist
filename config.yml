@@ -1,0 +1,8 @@
+server:
+  port: 8090
+
+elastic:
+  url: http://localhost:32769
+  schema: http
+  username: elastic
+  password: password
